@@ -1,5 +1,5 @@
 # Other-projects
-The projects located in this repository are too small to create new repository for each of them and they fail to meet the criteria to be added into other repositories.
+Projects located in this repository are too small to create new repository for each of them and they fail to meet the criteria to be added into other repositories.
 
 ## Directories:
 
