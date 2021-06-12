@@ -6,7 +6,7 @@ Projects located in this repository are too small to create new repository for e
 ### SQL - Muzeum
 >June 2021
 
-A database for an imaginary museum made as part of database classes. It consists of 3 SQL files:
+A database for an imaginary museum made as a part of database classes. It consists of 3 SQL files:
 * create the tables
 * insert the data
 * procedures, functions, view, triggers
