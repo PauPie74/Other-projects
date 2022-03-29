@@ -12,3 +12,8 @@ A database for an imaginary museum made as a part of database classes. It consis
 * procedures, functions, view, triggers
 
 **This project was made in Polish language**
+
+### R
+>January 2022
+
+Exercises in R language.
